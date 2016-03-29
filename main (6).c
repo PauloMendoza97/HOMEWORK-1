@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Leer por teclado un ńumero entero positivo n, calcular x elevado a la n.
 int main()
 {
     int base,i,potencia,cont;
