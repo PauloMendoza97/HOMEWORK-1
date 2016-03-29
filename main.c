@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Escribir su nombre en la pantalla 10 veces.
 int main()
 {
     int cont,i;
