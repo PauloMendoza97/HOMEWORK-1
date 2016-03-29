@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+//Escribir un programa para contar espacios en blanco, tabs y saltos de linea.
 int main()
 {
     int esp,tab,salto;
