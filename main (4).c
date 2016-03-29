@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Leer por teclado un ńumero entero positivo n, calcular la suma de los n  primeros numeros enteros positivos
 int main()
 {
     int suma,cont,i;
