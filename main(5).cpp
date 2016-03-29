@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Leer por teclado un ńumero entero positivo n, imprimir la suma de los n primos enteros positivos menores que n.
 int main()
 {
     int cont,primo,i,j;
