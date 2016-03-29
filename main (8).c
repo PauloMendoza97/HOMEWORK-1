@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Leer por teclado tres ńumero naturales, imprimirlos en orden.
 int main()
 {
     int n1,n2,n3;
