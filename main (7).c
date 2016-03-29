@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Leer por teclado un ńumero entero positivo n, calcular n!
 int main()
 {
     int cont,fact,i;
