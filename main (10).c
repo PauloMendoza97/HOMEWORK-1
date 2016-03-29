@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Dado un ńumero natural n, determinar el ńumeroHarmonico.
 int main()
 {
     int num;
