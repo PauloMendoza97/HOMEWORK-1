@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Leer por teclado 4 enteros positivos, determinar el maximo comun divisor de n
 int main()
 {
     int i,n1,n2,n3,n4,cont;
