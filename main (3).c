@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Leer por teclado un conjunto de n ́umeros enteros no nulos, terminando en CERO ,imprimir sus cuadrados.
 int main()
 {
     int i,cont,variable;
